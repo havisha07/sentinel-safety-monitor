@@ -1,0 +1,11 @@
+# Core ML / Vision
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# GUI & Imaging
+Pillow>=10.0.0
+
+# Note: torch and torchvision are installed automatically by ultralytics
+# For CPU-only installs (recommended for hackathon demos):
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
